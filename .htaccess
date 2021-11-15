@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^home?$ index.html
+RewriteRule ^department-representative-form?$ apply_dr.php
+RewriteRule ^registration-checker?$ regchecker.php
+RewriteRule ^record-room?$ admindrhunt2020.php
